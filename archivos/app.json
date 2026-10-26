@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Foro de la comunidad",
+    "slug": "foro-comunidad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "forocomunidad",
+    "userInterfaceStyle": "light",
+    "web": {
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
